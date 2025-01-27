@@ -206,7 +206,7 @@ section .about-us .mission-section .earth p, section .gallery .mission-section .
 .location {
   padding-bottom: 60px;
 }
-.location .map img {
+.location .map iframe {
   border-radius: 20px;
   width: 100%;
   height: 100%;
@@ -298,7 +298,7 @@ section .about-us .mission-section .earth p, section .gallery .mission-section .
     max-width: 100%;
     flex-direction: column;
   }
-  .location .map {
+  .location .map iframe{
     width: 100%;
     height: 80vh;
   }
